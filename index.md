@@ -1,9 +1,6 @@
 ## Projects I'm currently working on
 
+1. Python projects
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+2. PHP
+https://laracasts.com/series/php-for-beginners/
