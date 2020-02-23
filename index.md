@@ -8,8 +8,8 @@ https://laracasts.com/series/php-for-beginners/
 
 ## Python - Pandas tutorial
 
-import pandas as pd
-pip install jupyterlab
+  import pandas as pd
+  pip install jupyterlab
 
 
 Navigate to the folder where the sample data is located.
